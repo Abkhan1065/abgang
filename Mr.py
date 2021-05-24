@@ -52,42 +52,6 @@ def jalan(z):
 ##### LOGO #####
 logo = ""
 
-               AAA               BBBBBBBBBBBBBBBBB                                                       
-              A:::A              B::::::::::::::::B                                                      
-             A:::::A             B::::::BBBBBB:::::B                                                     
-            A:::::::A            BB:::::B     B:::::B                                                    
-           A:::::::::A             B::::B     B:::::B                                                    
-          A:::::A:::::A            B::::B     B:::::B                                                    
-         A:::::A A:::::A           B::::BBBBBB:::::B                                                     
-        A:::::A   A:::::A          B:::::::::::::BB                                                      
-       A:::::A     A:::::A         B::::BBBBBB:::::B                                                     
-      A:::::AAAAAAAAA:::::A        B::::B     B:::::B                                                    
-     A:::::::::::::::::::::A       B::::B     B:::::B                                                    
-    A:::::AAAAAAAAAAAAA:::::A      B::::B     B:::::B                                                    
-   A:::::A             A:::::A   BB:::::BBBBBB::::::B                                                    
-  A:::::A               A:::::A  B:::::::::::::::::B                                                     
- A:::::A                 A:::::A B::::::::::::::::B                                                      
-AAAAAAA                   AAAAAAABBBBBBBBBBBBBBBBB                                                       
-                                                                                                         
-                                                                                                                                                                                                           
-                                                                                                         
-KKKKKKKKK    KKKKKKKHHHHHHHHH     HHHHHHHHH               AAA               NNNNNNNN        NNNNNNNN     
-K:::::::K    K:::::KH:::::::H     H:::::::H              A:::A              N:::::::N       N::::::N     
-K:::::::K    K:::::KH:::::::H     H:::::::H             A:::::A             N::::::::N      N::::::N     
-K:::::::K   K::::::KHH::::::H     H::::::HH            A:::::::A            N:::::::::N     N::::::N     
-KK::::::K  K:::::KKK  H:::::H     H:::::H             A:::::::::A           N::::::::::N    N::::::N     
-  K:::::K K:::::K     H:::::H     H:::::H            A:::::A:::::A          N:::::::::::N   N::::::N     
-  K::::::K:::::K      H::::::HHHHH::::::H           A:::::A A:::::A         N:::::::N::::N  N::::::N     
-  K:::::::::::K       H:::::::::::::::::H          A:::::A   A:::::A        N::::::N N::::N N::::::N     
-  K:::::::::::K       H:::::::::::::::::H         A:::::A     A:::::A       N::::::N  N::::N:::::::N     
-  K::::::K:::::K      H::::::HHHHH::::::H        A:::::AAAAAAAAA:::::A      N::::::N   N:::::::::::N     
-  K:::::K K:::::K     H:::::H     H:::::H       A:::::::::::::::::::::A     N::::::N    N::::::::::N     
-KK::::::K  K:::::KKK  H:::::H     H:::::H      A:::::AAAAAAAAAAAAA:::::A    N::::::N     N:::::::::N     
-K:::::::K   K::::::KHH::::::H     H::::::HH   A:::::A             A:::::A   N::::::N      N::::::::N     
-K:::::::K    K:::::KH:::::::H     H:::::::H  A:::::A               A:::::A  N::::::N       N:::::::N     
-K:::::::K    K:::::KH:::::::H     H:::::::H A:::::A                 A:::::A N::::::N        N::::::N     
-KKKKKKKKK    KKKKKKKHHHHHHHHH     HHHHHHHHHAAAAAAA                   AAAAAAANNNNNNNN         NNNNNNN
- 
   \033[1;96m::♧♧♧♧♧♧♧♧♧♧\033[1;91mWhatsapp\033[1;96m♧♧♧♧♧♧♧♧♧♧▒▒▒▒▒▒▒::::        
   \033[1;91m:》》》\033[1;93m+923242625252\033[1;91m《《《▒▒▒▒▒▒▒▒▒▒▒:::::
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96m-AbKhan-\033[1;95m♡╭──────────•◈•──────────╮♡
@@ -455,13 +419,6 @@ def pilih_super():
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
              
-   ▇◤▔▔▔▔▔▔▔◥▇
-   ▇▏◥▇◣┊◢▇◤▕▇
-   ▇▏▃▆▅▎▅▆▃▕▇
-   ▇▏╱▔▕▎▔▔╲▕▇
-   ▇◣◣▃▅▎▅▃◢◢▇
-   ▇▇◣◥▅▅▅◤◢▇▇
-   ▇▇▇◣╲▇╱◢▇▇▇
    
 ♡──────────────•◈•──────────────♡.
 : \033[1;96m .....Ab Khan........... \033[1;93m :
